@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Focus/Runout Scanner — Прототип v0.1 (Arduino UNO).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Runout Scanner — Прототип v0.1 (Arduino UNO)"
             }
           }
         ]
@@ -183,10 +183,29 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "1d711e67784a0f12",
+  "active": "37e15ddd95ef3bff",
   "lastOpenFiles": [
-    "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Snippets/Arduino/blink-led.md",
+    "Obsidian_phone_archive/Insights.md",
+    "Obsidian_phone_archive/Index.md",
+    "Obsidian_phone_archive/Embedded_Plan.md",
+    "Obsidian_phone_archive/Dev_log.md",
+    "Obsidian_phone_archive/Chapter_1.md",
+    "Obsidian_phone_archive/Ардуино. GPIO и логика работы.md",
+    "Ideas",
+    "Resources",
+    "Projects/Backlog/Unified_PC_Controller.md",
+    "Ideas/AI_Integration_Strategy.md",
+    "Projects/Backlog",
+    "Projects/Focus",
+    "Projects/Completed",
+    "Ideas/AI_Ideas_Backlog.md",
+    "Obsidian_phone_archive/Установка mx_linux.iso с помощью balenaetcher.md",
+    "Obsidian_phone_archive/Референс для умных часов.md",
+    "Obsidian_phone_archive/Алгоритм обучения.md",
+    "Работа с embedded-средой.md",
+    "Projects",
     "README.md",
+    "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Snippets/Arduino/blink-led.md",
     "Обучение Embedded Engineer/Workflow.md",
     "Обучение Embedded Engineer/Learning_process/Theory/Ohm-law.md",
     "Обучение Embedded Engineer/Learning_process/Theory",
@@ -194,18 +213,13 @@
     "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Snippets/Arduino",
     "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Snippets",
     "Обучение Embedded Engineer/Dev-log/2026-06-09-blink.md.md",
-    "Обучение Embedded Engineer/Dev-log",
     "Обучение Embedded Engineer/От нуля до Middle Embedded, IoT Engineer.md",
-    "Обучение Embedded Engineer/Learning_process",
-    "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)",
     "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Карта действий для первого проекта (Blink)..md",
     "Настройка рабочего места/Шпаргалка - что где делаем.md",
     "Настройка рабочего места/Шпаргалка - настройка Git на втором ноуте.md",
-    "Настройка рабочего места",
     "Настройка рабочего места/Промпт для DeepSeek (Преподаватель теории).md",
     "Настройка рабочего места/Промпт для Qwen (Код-ревьюер и наставник).md",
     "Обучение Embedded Engineer/Инструкция по использованию рабочей среды.md",
-    "Обучение Embedded Engineer/Инструкция по прохождению плана обучения.md",
-    "Обучение Embedded Engineer"
+    "Обучение Embedded Engineer/Инструкция по прохождению плана обучения.md"
   ]
 }
