@@ -11,10 +11,14 @@
             "id": "1d711e67784a0f12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Обучение Embedded Engineer/Workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workflow"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 414.5
   },
   "right": {
     "id": "8d84b3e64435cd4f",
@@ -181,6 +185,19 @@
   },
   "active": "1d711e67784a0f12",
   "lastOpenFiles": [
+    "Обучение Embedded Engineer/Learning_process/Theory/Ohm-law.md",
+    "Обучение Embedded Engineer/Workflow.md",
+    "Обучение Embedded Engineer/Learning_process/Theory",
+    "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Snippets/Arduino/blink-led.md",
+    "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Snippets/ESP32",
+    "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Snippets/Arduino",
+    "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Snippets",
+    "Обучение Embedded Engineer/Dev-log/2026-06-09-blink.md.md",
+    "Обучение Embedded Engineer/Dev-log",
+    "Обучение Embedded Engineer/От нуля до Middle Embedded, IoT Engineer.md",
+    "Обучение Embedded Engineer/Learning_process",
+    "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)",
+    "Обучение Embedded Engineer/Learning_process/01_Junior_Basement_Junior(0-6_months)/Карта действий для первого проекта (Blink)..md",
     "Настройка рабочего места/Шпаргалка - что где делаем.md",
     "Настройка рабочего места/Шпаргалка - настройка Git на втором ноуте.md",
     "Настройка рабочего места",
@@ -188,7 +205,6 @@
     "Настройка рабочего места/Промпт для Qwen (Код-ревьюер и наставник).md",
     "Обучение Embedded Engineer/Инструкция по использованию рабочей среды.md",
     "Обучение Embedded Engineer/Инструкция по прохождению плана обучения.md",
-    "Обучение Embedded Engineer/От нуля до Middle Embedded, IoT Engineer.md",
     "Обучение Embedded Engineer"
   ]
 }
